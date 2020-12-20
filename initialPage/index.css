@@ -1,0 +1,36 @@
+body{
+    background-color: #2f2f2f;
+    margin:0 0;
+}
+
+h1{
+    color:#f2f2f2;
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    color: #f2f2ff;
+    padding-left: 50px;
+    
+}
+
+
+div{
+    display: flex;    
+    font-size: 25px;
+}
+button{
+        margin: 24px ;
+        margin-left: 20px;
+        font-size: 20px;
+        outline: none;
+        border-radius: 5px;
+}
+.adjust{
+    margin-left: 70px;
+}
+button:hover{
+    color:#f2f2f2;
+    background-color: #2f2f2f;
+
+}
